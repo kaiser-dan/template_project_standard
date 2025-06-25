@@ -1,3 +1,10 @@
+# Snakemake
+.snakemake/
+
+# Add more here as needed...
+
+
+# =======================================
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
